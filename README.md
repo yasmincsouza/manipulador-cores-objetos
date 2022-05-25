@@ -1,1 +1,1 @@
-# manipulador-cores-objetos
+# Manipulador de cores e objetos
