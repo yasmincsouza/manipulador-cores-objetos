@@ -1,5 +1,14 @@
 /*T145R - COMPUTAÇÃO GRÁFICA
-Aluno(a): Yasmin Cristina de Souza, matricula: 2020101033*/
+Aluno(a): Yasmin Cristina de Souza, matricula: 2020101033
+
+---TECLAS---
+TECLA + e - : AMPLIA E REDUZ O OBJETO
+TECLA SETA CIMA, BAIXO, DIREITA E ESQUERDA: MOVE O OBJETO PELO DISPLAY
+TECLAS ESC E END: FECHA O PROGRAMA
+TECLAS HOME: REINICIA TODO O DISPLAY E OBJETOS.
+------------
+MOUSE BOTÃO DIREITO: MOVE O OBJETO PELO DISPLAY
+*/
 
 #include <stdlib.h>
 #include <gl\glut.h>
